@@ -61,8 +61,7 @@ Integration of NN with MCTS:
 The NN guides the MCTS by providing move probabilities and board state evaluations, replacing or augmenting traditional heuristics and simulation policies.
 User Interface (UI):
 
-Though not directly related to the AI, a UI to interact with the chess engine would be essential for testing and demonstration. Given your multimedia design background, you might consider creating an interface that showcases the engine's capabilities.
-Testing and Optimization:
+UI considerations
 
 Debugging and Validation: Ensuring the engine plays valid and optimal chess.
 Performance Measurement: Using standard chess engine benchmarks and playing against other engines.
