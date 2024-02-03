@@ -2,6 +2,8 @@
 
 My attempt at creating an AI chess bot, using Pytorch (Neural Net)
 
+Dataset; https://www.kaggle.com/code/gabrielhaselhurst/chess-dataset
+
 Pieces (7):
 - Blank
 - Pawn
